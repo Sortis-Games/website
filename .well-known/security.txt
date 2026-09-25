@@ -1,0 +1,4 @@
+Contact: mailto:support@sortisgames.com
+Expires: 2027-09-24T23:59:59.000Z
+Preferred-Languages: en, tr
+Canonical: https://sortisgames.com/.well-known/security.txt

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sortisgames.com/sitemap.xml
